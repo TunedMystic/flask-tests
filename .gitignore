@@ -63,4 +63,5 @@ migrations/versions/*
 
 # Misc
 r
-
+.DS_Store
+.DS_Store?
