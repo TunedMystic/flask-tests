@@ -62,6 +62,7 @@ venv/
 migrations/versions/*
 
 # Misc
+db.sqlite3
 r
 .DS_Store
 .DS_Store?
